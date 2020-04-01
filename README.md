@@ -3,7 +3,7 @@
 
 An applicable database for a real-life scenario (a movie streming service).
 
-Mustafa A. Hakkoz - 150117509							
+Mustafa A. Hakkoz - 150117509  
 Muhammed Adem E. Demirkuş - 150115003
 
 
